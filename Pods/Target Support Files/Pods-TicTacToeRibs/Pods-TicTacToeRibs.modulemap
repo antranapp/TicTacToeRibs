@@ -1,0 +1,6 @@
+framework module Pods_TicTacToeRibs {
+  umbrella header "Pods-TicTacToeRibs-umbrella.h"
+
+  export *
+  module * { export * }
+}
